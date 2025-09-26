@@ -62,6 +62,4 @@ Cross-Validation: Using k-fold cross-validation on the training set to ensure th
 # Link
 
 https://www.kaggle.com/code/ziangrsoy/intel-image-classification
-https://www.kaggle.com/code/goker67/decision-trees-acc-metrics-feature-selection
 
-https://www.kaggle.com/code/goker67/everything-on-gpu-ml-with-cuml-polars-cupy
